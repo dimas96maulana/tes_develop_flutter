@@ -1,0 +1,40 @@
+{
+    "status": 200,
+    "result": [
+        {
+            "CustID":  "00A01090002",
+            "Name": "Mirza",
+            "Address": "Tengku Iskandar 5",
+            "BranchCode": "00A",
+            "PhoneNo": "+6285277163045"
+        },
+        {
+            "CustID":  "00A01090018",
+            "Name": "Bintang Mandiri",
+            "Address": "Tengku Iskandari (Blang Bintang Lama)",
+            "BranchCode": "00A",
+            "PhoneNo": "+6281360084071"
+        },
+        {
+            "CustID":  "00A01090021",
+            "Name": "Varia Muge Profil",
+            "Address": "T. Iskandar, Lam Glumpang",
+            "BranchCode": "00A",
+            "PhoneNo": "+628126982982"
+        },
+        {
+            "CustID":  "00A01090026",
+            "Name": "Puga Jaya",
+            "Address": "Kebun Raya Sp.4 Pineung Lamgugop",
+            "BranchCode": "00A",
+            "PhoneNo": "+6285277273340"
+        },
+        {
+            "CustID":  "00A01090033",
+            "Name": "Mandiri Baru",
+            "Address": "T Iskandar 4 Lamglumpang",
+            "BranchCode": "00A",
+            "PhoneNo": "+6282367767579"
+        }
+    ]
+}

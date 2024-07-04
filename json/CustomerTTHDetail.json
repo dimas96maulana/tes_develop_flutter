@@ -1,0 +1,85 @@
+{
+    "status": 200,
+    "result": [
+        {
+            "ID": 1,
+            "TTHNo": "TTH-00A-2306-50137",
+            "TTOTTPNo": "TTOL-00A-2306-90079",
+            "Jenis": "Emas 0.5 Gr",
+            "Qty": 2,
+            "Unit": "Buah"
+        },
+        {
+            "ID": 2,
+            "TTHNo": "TTH-00A-2306-50137",
+            "TTOTTPNo": "TTOL-00A-2306-90081",
+            "Jenis": "Voucher 100rb",
+            "Qty": 1,
+            "Unit": "Lembar"
+        },
+        {
+            "ID": 3,
+            "TTHNo": "TTH-00A-2306-50137",
+            "TTOTTPNo": "TTOL-00A-2306-90082",
+            "Jenis": "Voucher 50rb",
+            "Qty": 5,
+            "Unit": "Lembar"
+        },
+        {
+            "ID": 4,
+            "TTHNo": "TTH-00A-2306-50137",
+            "TTOTTPNo": "TTOL-00A-2306-90083",
+            "Jenis": "Emas 1 Gr",
+            "Qty": 2,
+            "Unit": "Buah"
+        },
+        {
+            "ID": 5,
+            "TTHNo": "TTH-00A-2306-50137",
+            "TTOTTPNo": "TTOL-00A-2306-90084",
+            "Jenis": "Emas 5 Gr",
+            "Qty": 1,
+            "Unit": "Buah"
+        },
+        {
+            "ID": 6,
+            "TTHNo": "TTH-00A-2306-50137",
+            "TTOTTPNo": "TTOL-00A-2306-90086",
+            "Jenis": "Voucher 50rb",
+            "Qty": 1,
+            "Unit": "Lembar"
+        },
+        {
+            "ID": 7,
+            "TTHNo": "TTH-00A-2306-50137",
+            "TTOTTPNo": "TTOL-00A-2306-90087",
+            "Jenis": "Voucher 50rb",
+            "Qty": 5,
+            "Unit": "Lembar"
+        },
+        {
+            "ID": 8,
+            "TTHNo": "TTH-00A-2306-50137",
+            "TTOTTPNo": "TTOL-00A-2306-90089",
+            "Jenis": "Voucher 100rb",
+            "Qty": 1,
+            "Unit": "Lembar"
+        },
+        {
+            "ID": 9,
+            "TTHNo": "TTH-00A-2306-50137",
+            "TTOTTPNo": "TTOL-00A-2306-90158",
+            "Jenis": "Emas 0.5 Gr",
+            "Qty": 3,
+            "Unit": "Buah"
+        },
+        {
+            "ID": 10,
+            "TTHNo": "TTH-00A-2306-50137",
+            "TTOTTPNo": "TTOL-00A-2306-90159",
+            "Jenis": "Voucher 150rb",
+            "Qty": 1,
+            "Unit": "Lembar"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "status": 200,
+    "result": [
+        {
+            "ID": 1,
+            "TTHNo": "TTH-00A-2306-50137",
+            "SalesID": "00AC1A0103",
+            "TTOTTPNo": "TTOL-00A-2306-90079",
+            "CustID": "00A01090002",
+            "DocDate": "2023-06-20 00:00:00.000",
+            "Received": "0",
+            "ReceivedDate": null,
+            "FailedReason": null
+        },
+        {
+            "ID": 2,
+            "TTHNo": "TTH-00A-2306-50137",
+            "SalesID": "00AC1A0103",
+            "TTOTTPNo": "TTOL-00A-2306-90084",
+            "CustID": "00A01090002",
+            "DocDate": "2023-06-20 00:00:00.000",
+            "Received": "0",
+            "ReceivedDate": null,
+            "FailedReason": null
+        },
+        {
+            "ID": 3,
+            "TTHNo": "TTH-00A-2306-50137",
+            "SalesID": "00AC1A0103",
+            "TTOTTPNo": "TTOL-00A-2306-90083",
+            "CustID": "00A01090002",
+            "DocDate": "2023-06-20 00:00:00.000",
+            "Received": "0",
+            "ReceivedDate": null,
+            "FailedReason": null
+        },
+        {
+            "ID": 4,
+            "TTHNo": "TTH-00A-2306-50137",
+            "SalesID": "00AC1A0103",
+            "TTOTTPNo": "TTOL-00A-2306-90081",
+            "CustID": "00A01090018",
+            "DocDate": "2023-06-20 00:00:00.000",
+            "Received": "0",
+            "ReceivedDate": null,
+            "FailedReason": null
+        },
+        {
+            "ID": 5,
+            "TTHNo": "TTH-00A-2306-50137",
+            "SalesID": "00AC1A0103",
+            "TTOTTPNo": "TTOL-00A-2306-90082",
+            "CustID": "00A01090018",
+            "DocDate": "2023-06-20 00:00:00.000",
+            "Received": "0",
+            "ReceivedDate": null,
+            "FailedReason": null
+        },
+        {
+            "ID": 6,
+            "TTHNo": "TTH-00A-2306-50137",
+            "SalesID": "00AC1A0103",
+            "TTOTTPNo": "TTOL-00A-2306-90158",
+            "CustID": "00A01090021",
+            "DocDate": "2023-06-20 00:00:00.000",
+            "Received": "0",
+            "ReceivedDate": null,
+            "FailedReason": null
+        },
+        {
+            "ID": 7,
+            "TTHNo": "TTH-00A-2306-50137",
+            "SalesID": "00AC1A0103",
+            "TTOTTPNo": "TTOL-00A-2306-90086",
+            "CustID": "00A01090033",
+            "DocDate": "2023-06-20 00:00:00.000",
+            "Received": "0",
+            "ReceivedDate": null,
+            "FailedReason": null
+        },
+        {
+            "ID": 8,
+            "TTHNo": "TTH-00A-2306-50137",
+            "SalesID": "00AC1A0103",
+            "TTOTTPNo": "TTOL-00A-2306-90159",
+            "CustID": "00A01090026",
+            "DocDate": "2023-06-20 00:00:00.000",
+            "Received": "0",
+            "ReceivedDate": null,
+            "FailedReason": null
+        },
+        {
+            "ID": 9,
+            "TTHNo": "TTH-00A-2306-50137",
+            "SalesID": "00AC1A0103",
+            "TTOTTPNo": "TTOL-00A-2306-90089",
+            "CustID": "00A01090026",
+            "DocDate": "2023-06-20 00:00:00.000",
+            "Received": "0",
+            "ReceivedDate": null,
+            "FailedReason": null
+        },
+        {
+            "ID": 10,
+            "TTHNo": "TTH-00A-2306-50137",
+            "SalesID": "00AC1A0103",
+            "TTOTTPNo": "TTOL-00A-2306-90087",
+            "CustID": "00A01090026",
+            "DocDate": "2023-06-20 00:00:00.000",
+            "Received": "0",
+            "ReceivedDate": null,
+            "FailedReason": null
+        }
+    ]
+}

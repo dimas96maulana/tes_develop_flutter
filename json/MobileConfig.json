@@ -1,0 +1,12 @@
+{
+    "status": 200,
+    "result": [
+        {
+            "ID": 1,
+            "BranchCode": "00A",
+            "Name": "SUMMARY TTH",
+            "Description": "SUMMARY TTH",
+            "Value": "Emas 0.5 Gr|Emas 1 Gr|Emas 5 Gr|Emas 100 Gr|Voucher 50rb|Voucher 100rb"
+        }
+    ]
+}
